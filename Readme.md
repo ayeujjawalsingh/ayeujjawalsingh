@@ -1,10 +1,16 @@
 <img src="https://komarev.com/ghpvc/?username=ayeujjawalsingh&label=Profile%20Visiters&color=0e75b6&style=flat" alt="ayeujjawalsingh" />
 
 
+<h1 align="center"> Hi 👋🏻, I'm Ujjawal Singh </br> 
+</h1>
+<p align="center">I love creating new things ⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">
+<a href="https://twitter.com/ayeujjawalsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://linkedin.com/in/ayeujjawalsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
+<a href="https://github.com/ayeujjawalsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-000?logo=github&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
+<a href="https://leetcode.com/ayeujjawalsingh/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?logo=leetcode&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-# <p align="center"> Welcome🙏🏻 
-
-📞 Contact me for Consults and Paid Work [Google Form](https://forms.gle/u4z4p35zhUWQLM9M9) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayeujjawalsingh/) for any Doubt Clearence
 
 # Hi, I'm Ujjawal!👋
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
@@ -88,3 +94,5 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 
 ## Connect with me 🤝
 [![GitHub followers](https://img.shields.io/github/followers/ayeujjawalsingh?style=social)](https://www.github.com/ayeujjawalsingh) [![Linkedin Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeujjawalsingh/)](https://www.linkedin.com/in/ayeujjawalsingh/) [![Instagram Badge](https://img.shields.io/badge/-ayeujjawalsingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ayeujjawalsingh/)](https://www.instagram.com/ayeujjawalsingh/) [![Twitter Follow](https://img.shields.io/twitter/follow/ayeujjawalsingh?style=social)](https://www.twitter.com/ayeujjawalsingh) [![Facebook Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ayeujjawalsingh)](https://www.facebook.com/ayeujjawalsingh)
+
+📞 Contact me for Consults and Paid Work [Google Form](https://forms.gle/u4z4p35zhUWQLM9M9) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayeujjawalsingh/) for any Doubt Clearence
