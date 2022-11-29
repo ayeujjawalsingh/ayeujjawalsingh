@@ -63,5 +63,4 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 <img src="https://github.com/ayeujjawalsingh/ayeujjawalsingh/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=ayeujjawalsingh&pretty=true)](https://github-visitor-counter-pro.vercel.app)
 
