@@ -43,9 +43,11 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 
 <br/>
 
+
+<!-- 
 ## My GitHub Stats ⚡
 
-![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeujjawalsingh&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeujjawalsingh&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
 
 ## Top Langauges 👩‍💻
  
