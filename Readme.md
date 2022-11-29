@@ -49,6 +49,34 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 
 ![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeujjawalsingh&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
 
+## Tech Stack 💻
+#### Languages
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+
+#### JS Framework/Library
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+
+#### CSS Framework/Library/Pre-processors
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+#### Database/State
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+
+#### Backend
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=pink)
+
+#### Web Hosting
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+
 ## Top Langauges 👩‍💻
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeujjawalsingh&hide=TeX&layout=compact)
