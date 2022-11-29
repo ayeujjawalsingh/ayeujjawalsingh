@@ -84,9 +84,7 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeujjawalsingh&hide=TeX&layout=compact)
 
-
 ## Thanks for Visiting my GitHub Profile!
-
 ---
 <p align="center">
 <img src="https://github.com/ayeujjawalsingh/ayeujjawalsingh/blob/output/github-contribution-grid-snake.svg">
