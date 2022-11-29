@@ -12,7 +12,7 @@
 <a href="https://leetcode.com/ayeujjawalsingh/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?logo=leetcode&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 
-# Hi, I'm Ujjawal!👋
+<!-- # Hi, I'm Ujjawal!👋 -->
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
 
 - Web Development Stack,
