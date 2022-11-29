@@ -16,7 +16,7 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 - Android Application Developer(Flutter)
 - Coding Skills in Java (DSA), Solved 1000+ DSA based questions
 - Additional Skills: JavaScript & Python
-
+<!-- 
 
 ## My Skills 🎓
 
@@ -39,7 +39,7 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> 
 
-</p>
+</p> -->
 
 <br/>
 
