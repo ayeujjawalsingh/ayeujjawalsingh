@@ -41,9 +41,6 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 
 </p> -->
 
-<br/>
-
-
 <!-- 
 ## My GitHub Stats ⚡
 
