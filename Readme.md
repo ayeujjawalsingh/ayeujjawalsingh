@@ -13,7 +13,7 @@
 
 
 <!-- # Hi, I'm Ujjawal!👋 -->
-I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
+I’m Ujjawal Singh, a final-year engineering student, and I’m a full-stack developer. I’ve solved 1000+ DSA problems on online platforms, and I’m confident enough to work on projects with my own skills and experience that I gain while doing projects and working.
 
 - Web Development Stack,
     - FrontEnd: HTML, CSS, JavaScript
