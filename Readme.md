@@ -85,10 +85,6 @@ I’m Ujjawal Singh, a final-year engineering student, and I’m a full-stack de
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeujjawalsingh&hide=TeX&layout=compact)
 
 ## Thanks for Visiting my GitHub Profile!
----
-<p align="center">
-<img src="https://github.com/ayeujjawalsingh/ayeujjawalsingh/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 ## Connect with me 🤝
 [![GitHub followers](https://img.shields.io/github/followers/ayeujjawalsingh?style=social)](https://www.github.com/ayeujjawalsingh) [![Linkedin Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeujjawalsingh/)](https://www.linkedin.com/in/ayeujjawalsingh/) [![Instagram Badge](https://img.shields.io/badge/-ayeujjawalsingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ayeujjawalsingh/)](https://www.instagram.com/ayeujjawalsingh/) [![Twitter Follow](https://img.shields.io/twitter/follow/ayeujjawalsingh?style=social)](https://www.twitter.com/ayeujjawalsingh) [![Facebook Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ayeujjawalsingh)](https://www.facebook.com/ayeujjawalsingh)
