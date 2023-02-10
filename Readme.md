@@ -68,7 +68,9 @@ I’m Ujjawal Singh, a final-year engineering student, and I’m a full-stack de
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 #### Database/State
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 #### Backend
