@@ -92,5 +92,5 @@ I’m Ujjawal Singh, a final-year engineering student, and I’m a full-stack de
 ## Connect with me 🤝
 [![GitHub followers](https://img.shields.io/github/followers/ayeujjawalsingh?style=social)](https://www.github.com/ayeujjawalsingh) [![Linkedin Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeujjawalsingh/)](https://www.linkedin.com/in/ayeujjawalsingh/) [![Instagram Badge](https://img.shields.io/badge/-ayeujjawalsingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ayeujjawalsingh/)](https://www.instagram.com/ayeujjawalsingh/)[![Facebook Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ayeujjawalsingh)](https://www.facebook.com/ayeujjawalsingh)
 
-📞 Contact me for Consults and Paid Work [Google Form](https://forms.gle/u4z4p35zhUWQLM9M9) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayeujjawalsingh/) for any Doubt Clearence
 <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
+📞 Contact me for Consults and Paid Work [Google Form](https://forms.gle/u4z4p35zhUWQLM9M9) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayeujjawalsingh/) for any Doubt Clearence
