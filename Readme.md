@@ -51,7 +51,7 @@ I’m Ujjawal Singh, a final-year engineering student, and I’m a full-stack de
 ## My GitHub Stats ⚡
 
 ![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeujjawalsingh&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
-
+<img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height = "50%" width = "50%"/>
 ## Tech Stack 💻
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
