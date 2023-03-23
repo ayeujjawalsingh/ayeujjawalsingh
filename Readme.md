@@ -13,15 +13,15 @@
 
 
 <!-- # Hi, I'm Ujjawal!👋 -->
-I’m Ujjawal Singh, a final-year engineering student, and I’m a full-stack developer. I’ve solved 1000+ DSA problems on online platforms, and I’m confident enough to work on projects with my own skills and experience that I gain while doing projects and working.
+I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degree in Computer Science at CV Raman Global University in Bhubaneswar, Odisha. I'm a full-stack developer and have solved more than 1,000 Java-based DSA problems on online platforms such as Leetcode and Geeksforgeeks. I'm confident in my ability to work on projects using the skills and experience I've gained while working on various projects.
 
-- Web Development Stack,
+<!-- - Web Development Stack,
     - FrontEnd: HTML, CSS, JavaScript
     - BackEnd: Django
     - Database: SQL | NoSQL
 - Android Application Developer(Flutter)
 - Coding Skills in Java (DSA), Solved 1000+ DSA based questions
-- Additional Skills: JavaScript & Python
+- Additional Skills: JavaScript & Python -->
 <!-- 
 
 ## My Skills 🎓
