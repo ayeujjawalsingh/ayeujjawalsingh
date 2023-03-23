@@ -56,10 +56,10 @@ I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degre
 #### Languages
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
 #### JS Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
@@ -69,15 +69,18 @@ I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degre
 
 #### Database/State
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000?style=for-the-badge&logo=nosql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
 #### Backend
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=pink)
+![PHP](https://img.shields.io/badge/-php-000?style=for-the-badge&logo=php&logoColor=pink)
 
 #### Web Hosting
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
+![AWS](https://img.shields.io/badge/-AWS%20Pages-000?style=for-the-badge&logo=AWS)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
