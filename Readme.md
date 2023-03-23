@@ -70,8 +70,6 @@ I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degre
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Database/State
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sql)
-![NoSQL](https://img.shields.io/badge/-NoSQL-000?style=for-the-badge&logo=nosql)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
