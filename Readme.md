@@ -62,10 +62,9 @@ I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degre
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-#### JS Framework/Library
+#### Framework/Library
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-#### CSS Framework/Library/Pre-processors
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=pink)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -74,7 +73,7 @@ I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degre
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Backend
+#### Backend Language
 ![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=pink)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
