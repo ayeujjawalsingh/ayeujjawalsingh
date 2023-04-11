@@ -14,7 +14,12 @@
 
 
 <!-- # Hi, I'm Ujjawal!👋 -->
-I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degree in Computer Science at CV Raman Global University in Bhubaneswar, Odisha. I'm a full-stack developer and have solved more than 1,000 Java-based DSA problems on online platforms such as Leetcode and Geeksforgeeks. I'm confident in my ability to work on projects using the skills and experience I've gained while working on various projects.
+<!-- I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degree in Computer Science at CV Raman Global University in Bhubaneswar, Odisha. I'm a full-stack developer and have solved more than 1,000 Java-based DSA problems on online platforms such as Leetcode and Geeksforgeeks. I'm confident in my ability to work on projects using the skills and experience I've gained while working on various projects. -->
+Hi there! I'm Ujjawal Singh, a final-year engineering student with a passion for coding and building web applications. I'm proficient in Java, C, Python, and web technologies such as Django, PHP, HTML, CSS, and JavaScript, as well as databases like SQL, MySQL, and PostgreSQL. I've developed projects like a health and disease detection web application and a video chat web application, and I've interned as a web developer at Exposys Data Labs. In my free time, I enjoy solving data structure and algorithm problems on GeeksforGeeks and LeetCode.
+
+If you're interested in collaborating on a project or have any questions, please feel free to reach out to me!
+
+Contact me at ayeujjawalsingh@gmail.com.
 
 <!-- - Web Development Stack,
     - FrontEnd: HTML, CSS, JavaScript
