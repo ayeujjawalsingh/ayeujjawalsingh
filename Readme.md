@@ -15,7 +15,7 @@
 
 <!-- # Hi, I'm Ujjawal!👋 -->
 <!-- I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degree in Computer Science at CV Raman Global University in Bhubaneswar, Odisha. I'm a full-stack developer and have solved more than 1,000 Java-based DSA problems on online platforms such as Leetcode and Geeksforgeeks. I'm confident in my ability to work on projects using the skills and experience I've gained while working on various projects. -->
-<!--Hi there! I'm Ujjawal Singh, and am a Backend Developer SDE1 at Careplix. Skilled in Python, Django, Java and web technologies. Passionate about problem-solving and creating impactful solutions.
+<!--Hi there! I'm Ujjawal Singh, and am a Backend Developer SDE1 at Carenow Healthcare. Skilled in Python, Django, Java and web technologies. Passionate about problem-solving and creating impactful solutions.
 
 💡 Passionate about problem-solving and creating impactful solutions.
 
