@@ -13,34 +13,6 @@
 
 Software Development Engineer with extensive experience in Python and Java technologies, specializing in Spring Boot, Django, Flask, and Microservices. Skilled in designing and building REST APIs, with a strong background in databases like MySQL, PostgreSQL, and MongoDB. Passionate about system design, problem-solving, and working in Linux environments. Currently contributing to innovative solutions in a fast-paced, product-based startup.
 
-## My Skills 🎓
-
-<p align="left">
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
- 
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
- 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> 
-
-</p> -->
-
-<!-- 
-## My GitHub Stats ⚡
-
-![Ekta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeujjawalsingh&show_icons=true&count_private=true&show_icons=true&include_all_commits=true) -->
-
 ## Tech Stack 💻
 #### Languages
 ![Java](https://img.shields.io/badge/java-E4E4E4?style=for-the-badge&logo=Java&logoColor=0)
