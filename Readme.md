@@ -13,19 +13,6 @@
 
 Software Development Engineer with extensive experience in Python and Java technologies, specializing in Spring Boot, Django, Flask, and Microservices. Skilled in designing and building REST APIs, with a strong background in databases like MySQL, PostgreSQL, and MongoDB. Passionate about system design, problem-solving, and working in Linux environments. Currently contributing to innovative solutions in a fast-paced, product-based startup.
 
-### 🚀 About Me
-- Backend Developer (SDE1) at Careplix.
-- Skilled in Python, Django, Java, and web technologies.
-- Passionate about problem-solving and creating impactful solutions.
-
-### 🤝 Let's Collaborate!
-- Open to collaboration on interesting projects.
-- Have any questions? Feel free to reach out!
-
-### 📬 Contact
-- Email: ayeujjawalsingh@gmail.com
-
-
 ## My Skills 🎓
 
 <p align="left">
