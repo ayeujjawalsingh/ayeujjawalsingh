@@ -1,29 +1,17 @@
 <img src="https://komarev.com/ghpvc/?username=ayeujjawalsingh&label=Profile%20Visiters&color=0e75b6&style=flat" alt="ayeujjawalsingh" />
 
 
-<h1 align="center"> 👋 Hello, I'm Ujjawal Singh! </br> 
+<h1 align="center"> Hey 👋🏻, I'm Ujjawal </br> 
 </h1>
-<p align="center">Software Developer || Full Stack Developer || Data Analyst</p>
-<!-- <p align="center">I love creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p> -->
+<p align="center">Software Developer Engineer</p>
+
 <p align="center">
 <a href="https://auth.geeksforgeeks.org/user/ayeujjawalsingh/practice" target="_blank"><img alt="" src="https://img.shields.io/badge/GeeksforGeeks-000?logo=GeeksforGeeks&logoColor=2FF200&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/ayeujjawalsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://github.com/ayeujjawalsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/Github-000?logo=github&logoColor=f4f9fe&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://leetcode.com/ayeujjawalsingh/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-
-<!-- # Hi, I'm Ujjawal!👋 -->
-<!-- I'm Ujjawal Singh from Sasaram, Bihar, and I'm currently pursuing a B.Tech degree in Computer Science at CV Raman Global University in Bhubaneswar, Odisha. I'm a full-stack developer and have solved more than 1,000 Java-based DSA problems on online platforms such as Leetcode and Geeksforgeeks. I'm confident in my ability to work on projects using the skills and experience I've gained while working on various projects. -->
-<!--Hi there! I'm Ujjawal Singh, and am a Backend Developer SDE1 at Carenow Healthcare. Skilled in Python, Django, Java and web technologies. Passionate about problem-solving and creating impactful solutions.
-
-💡 Passionate about problem-solving and creating impactful solutions.
-
-🤝 Interested in collaborating on a project or have any questions? Feel free to reach out to me!
-
-📧 Contact me at: [ayeujjawalsingh@gmail.com](mailto:ayeujjawalsingh@gmail.com) 
-
-## 👋 Hello, I'm Ujjawal Singh! -->
+Software Development Engineer with extensive experience in Python and Java technologies, specializing in Spring Boot, Django, Flask, and Microservices. Skilled in designing and building REST APIs, with a strong background in databases like MySQL, PostgreSQL, and MongoDB. Passionate about system design, problem-solving, and working in Linux environments. Currently contributing to innovative solutions in a fast-paced, product-based startup.
 
 ### 🚀 About Me
 - Backend Developer (SDE1) at Careplix.
@@ -37,14 +25,6 @@
 ### 📬 Contact
 - Email: ayeujjawalsingh@gmail.com
 
-<!-- - Web Development Stack,
-    - FrontEnd: HTML, CSS, JavaScript
-    - BackEnd: Django
-    - Database: SQL | NoSQL
-- Android Application Developer(Flutter)
-- Coding Skills in Java (DSA), Solved 1000+ DSA based questions
-- Additional Skills: JavaScript & Python -->
-<!-- 
 
 ## My Skills 🎓
 
@@ -114,5 +94,3 @@
 
 ## Connect with me 🤝
 [![GitHub followers](https://img.shields.io/github/followers/ayeujjawalsingh?style=social)](https://www.github.com/ayeujjawalsingh) [![Linkedin Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayeujjawalsingh/)](https://www.linkedin.com/in/ayeujjawalsingh/)[![Instagram Badge](https://img.shields.io/badge/-ayeujjawalsingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ayeujjawalsingh/)](https://www.instagram.com/ayeujjawalsingh/)[![Facebook Badge](https://img.shields.io/badge/-ayeujjawalsingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ayeujjawalsingh)](https://www.facebook.com/ayeujjawalsingh)
-
-📞 Contact me for Consults and Paid Work [Google Form](https://forms.gle/u4z4p35zhUWQLM9M9) 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ayeujjawalsingh/) for any Doubt Clearence
