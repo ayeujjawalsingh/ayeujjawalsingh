@@ -11,7 +11,9 @@
 <a href="https://instagram.com/ayeujjawalsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-DC007B?logo=instagram&logoColor=000000&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://leetcode.com/ayeujjawalsingh/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-I'm a Software Developer with a strong background in Java and Python, working mostly with Spring Boot, Django, Flask, and Microservices. I enjoy designing and building REST APIs, and I’m comfortable working with databases like PostgreSQL, MySQL, and MongoDB. I love tackling system design challenges and solving problems. Currently, I’m part of a fast-moving, product-based startup where I'm helping build innovative solutions. Always up for a chat or collaboration—feel free to reach out: ayeujjawalsingh@gmail.com.
+I’m a Software Developer skilled in Java, Python, and backend frameworks like Spring Boot, Django, and Flask. I focus on designing scalable REST APIs and working with databases like PostgreSQL, MySQL, and MongoDB. Currently, I’m building innovative solutions at a fast-paced, product-based startup.
+
+Let’s connect! Reach me at ayeujjawalsingh@gmail.com.
 
 ## Tech Stack 💻
 #### Languages
