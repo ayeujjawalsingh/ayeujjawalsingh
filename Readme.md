@@ -10,7 +10,7 @@
 <a href="https://instagram.com/ayeujjawalsingh" target="_blank"><img alt="" src="https://img.shields.io/badge/instagram-DC007B?logo=instagram&logoColor=000000&style=for-the-badge" style="vertical-align:center" /></a>
  <a href="https://leetcode.com/ayeujjawalsingh/" target="_blank"><img alt="" src="https://img.shields.io/badge/Leetcode-000?logo=leetcode&logoColor=FFF926&style=for-the-badge" style="vertical-align:center" /></a></p>
 
-I'm a **Backend Developer** and **Data Engineer** with strong experience in building scalable, high-performance systems and modern data platforms. I specialize in designing **microservices architectures**, **cloud-native applications**, and **data pipelines** using tools like **Java**, **Spring Boot**, **Python**, **Django**, **Apache Spark**, **Databricks**, and a wide range of **AWS services**.
+I'm a **Backend Engineer** and **Data Engineer** with strong experience in building scalable, high-performance systems and modern data platforms. I specialize in designing **microservices architectures**, **cloud-native applications**, and **data pipelines** using tools like **Java**, **Spring Boot**, **Python**, **Django**, **Apache Spark**, **Databricks**, and a wide range of **AWS services**.
 
 
 
