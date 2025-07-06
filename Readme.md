@@ -1,6 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=ayeujjawalsingh&label=Profile%20Visiters&color=0e75b6&style=flat" alt="ayeujjawalsingh" />
 
-
 <h1 align="center"> Hey 👋🏻, I'm Ujjawal </br> 
 </h1>
 <p align="center">Software Engineer</p>
